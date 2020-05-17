@@ -1,6 +1,9 @@
 #include <stdio.h>
+#include <windows.h>
+
 
 int main()
 {
-	return 0;
+	int i = 1;
+	return i;
 }
