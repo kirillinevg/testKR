@@ -7,3 +7,10 @@ int main()
 	int i = 0;
 	return i;
 }
+
+
+int f()
+{
+	int i = 'm';
+	return i;
+}
