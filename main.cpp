@@ -11,6 +11,6 @@ int main()
 
 int f()
 {
-	int i = 0;
+	int i = 1000;
 	return i;
 }
