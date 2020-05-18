@@ -4,13 +4,13 @@
 
 int main()
 {
-	int i = 1000;
+	int i = 0;
 	return i;
 }
 
 
 int f()
 {
-	int i = 'm';
+	int i = 0;
 	return i;
 }
